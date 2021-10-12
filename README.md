@@ -1,4 +1,1 @@
-# Struktur Data Set 
-# Struktur Data Dictionary
-# Konversi Struktur Data
-# Struktur Data String
+# Struktur Data Set, Dictionary, Konversi Data & String
